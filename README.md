@@ -40,7 +40,7 @@ Before starting, ensure you have:
 
 ### **Step 1: Clone the Project**  
 ```bash
-git clone https://github.com/yourusername/DockerNodeRedisDemo.git
+git clone https://github.com/Kirankumarvel/DockerNodeRedisDemo.git
 cd DockerNodeRedisDemo
 ```
 
